@@ -1,0 +1,24 @@
+:host >>> .card.customClass,.card.customClass .card-header {
+    background-color: #337ab7;
+    color: #fff;
+}
+:host >>> .panel.customClass .panel-body {
+    background-color: white;
+}
+:host >>> .btn-link {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: white;
+    padding: 0px;
+    margin-top: 0px;
+}
+:host >>> .dataTables_wrapper {
+    width: 100%;
+}
+:host >>> .btn-blue {
+    background-color: #337ab7;
+    color: white;
+}
+:host >>> .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #daecf7;
+}
