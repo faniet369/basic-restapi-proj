@@ -272,7 +272,7 @@ export class AppComponent implements OnInit {
   }
 
   callAjaxService(uri: any, json: any, type: any):any{
-    uri = "http://localhost:8080" + uri;
+    uri = "http://34.213.72.52:8080" + uri;
     
     var result;
     $.ajax({
