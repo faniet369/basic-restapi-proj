@@ -1,5 +1,8 @@
-# UserFaAngular
+# This project can add, edit, delete, search user list.
 
+![example](https://github.com/faniet369/frontend-basic-restapi-proj/assets/59725447/7a5f2e19-fd69-478c-b442-ea24acbedcae)
+
+This is **front-end** code. For **back-end** go to [github link](https://github.com/faniet369/backend-basic-restapi-proj).<br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
